@@ -1,0 +1,17 @@
+from Model import *
+from Controller import *
+first=int(input('Введите число: '))
+
+while True:
+    from Model import *
+    from Controller import *
+    if firstmove == 1:
+    print('Ответ: ', answer)
+    print('Выберите дествие из ниже указанных:')
+    print('1) Сложение')
+    print('2) Вычитание')
+    print('3) Деление')
+    print('4) Умножение')
+    print('5) Степень')
+    move=int(input('Введите ваше действие: '))
+    second=int(input('Введ
