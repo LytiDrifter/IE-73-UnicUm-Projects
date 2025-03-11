@@ -1,0 +1,28 @@
+def plus(fist,second):
+    answer=fist+second
+
+
+def minus(fist,second):
+    answer=fist-second
+
+
+def drob(fist,second):
+    answer=fist//second
+
+
+def umnozhenie(fist,second):
+    answer=fist*second
+
+
+def stepen(fist,second):
+    answer=fist**second
+
+
+firstmove=0
+answer=0
+while True:
+    from Viev import *
+    from Controller import *
+    if move==1:
+
+
